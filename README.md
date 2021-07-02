@@ -8,4 +8,4 @@ population of companies and economic & financials (both short- and long-term)
 
 # Scope 
 
-Analysis and visual representation the performance of British, publicly-listed companies in the aftermath of the 2016 Brexit Referendum.
+Analysis and visual representation of the performance of British, publicly-listed companies in the aftermath of the 2016 Brexit Referendum.
